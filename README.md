@@ -18,6 +18,8 @@ _Last updated: 2025-08-06_
 | Path | Type | Skills Practiced |
 |------|------|-----------------|
 | [`azure/secure-storage-rbac-keyvault`](./azure/secure-storage-rbac-keyvault) | Microsoft Learn module | RBAC, Key Vault, encryption at rest |
+| [`azure/storage-soft-delete`](./azure/storage-soft-delete) | Storage security lab | Enable & test Blob Soft Delete |
+
 
 ---
 
