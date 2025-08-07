@@ -1,52 +1,36 @@
-# 🧪 Cyber-Lab — Hands-On Security Portfolio  
-*Built to land a SOC Analyst / Cloud Security internship in 2026.*
+# 🧪 Cyber-Lab — Practical Security Work
 
-**Last updated:** **2025-08-06**
+Hands-on exercises completed while studying Cybersecurity (AS) at Chaffey College.
 
-![Lab preview](./azure/secure-storage-rbac-keyvault/screenshots/module-complete.png)
-
----
-
-## 🌟 Current Focus Areas
-- ☁️ **Cloud security** (Azure now; AWS next)
-- 🛡️ **SOC / Blue-Team skills** (log analysis, detection rules)
-- 🔐 **Identity & access management** (RBAC, Key Vault)
-- 📊 **SIEM tooling** (Splunk, Sentinel, ELK)
-- 🧠 Continuous learning aligned to **Security+**, **AZ-900**, and future certs
+_Last updated: 2025-08-06_
 
 ---
 
-## 📂 Directory of Labs & Modules
+## 🌟 Focus Areas
+- Cloud security (Azure)
+- Blue-Team fundamentals (logs, detection)
+- Identity & access management (RBAC, Key Vault)
+
+---
+
+## 📂 Labs & Modules
 
 | Path | Type | Skills Practiced |
 |------|------|-----------------|
-| [`azure/secure-storage-rbac-keyvault`](./azure/secure-storage-rbac-keyvault) | Microsoft Learn **module** | RBAC, Key Vault, encryption at rest |
-
-*(More folders will appear here as I complete additional labs.)*
+| [`azure/secure-storage-rbac-keyvault`](./azure/secure-storage-rbac-keyvault) | Microsoft Learn module | RBAC, Key Vault, encryption at rest |
 
 ---
 
-## 🛠 Tools & Platforms
-- **Microsoft Azure** sandbox environments  
-- **TryHackMe** (Blue-Team track) *(queued)*  
-- **Splunk Free / Fundamentals 1** *(queued)*  
-- **Linux (Ubuntu VM)**, Wireshark, Nmap, Burp Suite  
+## 🛠  Tools Used So Far
+- Microsoft Azure sandbox
+- Ubuntu VM (Burp Suite .jar, basic networking tools)
 
 ---
 
-## 🚧 In Progress
-- Azure Sentinel alerting lab — **25 % complete**  
-- TryHackMe SOC Level 1 — **0 %** (scheduled)  
-- Splunk brute-force detection dashboard — **10 %**
-
----
-
-## 📜 Certifications
-| Status | Certification |
-|--------|---------------|
-| ✅ | **AZ-900** — Microsoft Azure Fundamentals |
-| ✅ | **CompTIA Security+** |
-| 🔄 | Splunk Core Certified User *(studying, target Oct 2025)* |
+## 📅 Roadmap (Planned Work)
+- Build an **Azure Sentinel alerting** exercise
+- Start **TryHackMe SOC Level 1**
+- Document a basic **Splunk** log-analysis lab
 
 ---
 
