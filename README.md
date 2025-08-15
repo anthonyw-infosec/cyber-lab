@@ -2,7 +2,7 @@
 
 Hands-on exercises completed while studying Cybersecurity (AS) at Chaffey College.
 
-_Last updated: 2025-08-06_
+_Last updated: 2025-08-15_
 
 ---
 
@@ -19,7 +19,7 @@ _Last updated: 2025-08-06_
 |------|------|-----------------|
 | [`azure/secure-storage-rbac-keyvault`](./azure/secure-storage-rbac-keyvault) | Microsoft Learn module | RBAC, Key Vault, encryption at rest |
 | [`azure/storage-soft-delete`](./azure/storage-soft-delete) | Storage security lab | Enable & test Blob Soft Delete |
-
+| [`azure/sas-blob-leak-detect-remediate`](./azure/sas-blob-leak-detect-remediate/README.md) | Storage security lab | Private container → SAS leak → Diagnostic settings → KQL (Log Analytics) → Key rotation |
 
 ---
 
