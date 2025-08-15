@@ -50,7 +50,7 @@ Create a **private** container, generate a **read-only SAS URL** (the “leak”
 3. Open a **new Incognito/Private** window → paste the SAS URL → the file should render.  
    *(Redact the token before sharing — everything after `?`.)*
 
-![SAS settings](./assets/05_generate_sas_settings.png)
+
 ![SAS works in Incognito](./assets/06_incognito_sas_access_ok.png)
 
 ---
@@ -63,7 +63,7 @@ Create a **private** container, generate a **read-only SAS URL** (the “leak”
    - **Category groups:** **allLogs** for **Blob** (Read/Write/Delete) → **Save**  
 3. Hit the **same SAS URL** again in Incognito to generate a log.
 
-![Diagnostic setting during setup](./assets/07a_diagsettings_config.png)
+
 ![Blob diagnostics enabled](./assets/07_diagsettings_blob_enabled.png)
 
 ---
